@@ -15,7 +15,7 @@
 # Precompiled Headers
 *.gch
 *.pch
-
+*.ipch
 # Linker files
 *.ilk
 
@@ -41,5 +41,17 @@
 *.exe
 *.out
 *.app
+
+*.db
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*.user
+*.idb
+*.log
+*.tlog
+*.lastbuildstate
+*.opendb
 
 # End of https://www.toptal.com/developers/gitignore/api/c++
