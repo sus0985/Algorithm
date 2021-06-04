@@ -54,4 +54,10 @@
 *.lastbuildstate
 *.opendb
 
+*.pbxproj
+*.xcworkspacedata
+*.plist
+*.xcuserstate
+*.xcbkptlist
+*.
 # End of https://www.toptal.com/developers/gitignore/api/c++
